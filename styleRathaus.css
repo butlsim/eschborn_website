@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+    font-style:unset ;font-size: large ;
+}
+h1 {
+    background-color: black;
+    color: lightblue;
+    padding: 5px;
+}
+hr {
+    clear: both;
+    opacity: 0;
+    }
+    .ueberschrift {font-size: larger;font-weight: bold;
+    }
+    .ueberschrift2 {font-size: x-large;font-weight: bold;
+    }
+    .ueberschrift3 {font-size: x-large;font-weight: bold;
+    }
+    .ueberschrift4 {font-size: x-large;font-weight: bold;
+    }
+    .ueberschrift5 {font-size: x-large;font-weight: bold;
+    }

@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    font-style:unset ;font-size: x-large;
+}
+h1 {
+    background-color: black;
+    color: lightblue;
+    padding: 5px;
+}
+.ueberschrift2 {color: blue;
+     ;font-weight: bold;}
+ .ueberschrift3 {font-size: larger;font-weight: bold;
+ }

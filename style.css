@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-style:unset ;font-size: x-large;
+}
+h1 {
+    background-color: black;
+    color: lightblue;
+    padding: 5px;
+}
+.ueberschrift {font-size: larger;font-weight: bold;}
+
+hr {
+    clear: both;
+    opacity: 0;
+    }
+.buttonSize{
+    font-style:unset ;font-size: x-large;
+}
+
