@@ -7,8 +7,8 @@ h1 {
     color: lightblue;
     padding: 5px;
 }
-.ueberschrift {font-size: larger;font-weight: bold;}
-
+.ueberschrift {font-size: larger;font-weight: bold;
+}
 hr {
     clear: both;
     opacity: 0;
@@ -16,4 +16,5 @@ hr {
 .buttonSize{
     font-style:unset ;font-size: x-large;
 }
-
+.ueberschrift2 {font-size: larger;font-weight: bold;
+}
