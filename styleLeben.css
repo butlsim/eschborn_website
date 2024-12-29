@@ -2,24 +2,16 @@ body {
     background-color: lightblue;
     font-style:unset ;font-size: large ;
 }
+.ueberschrift0 {font-size: x-large;font-weight: bold;
+}
+.ueberschrift1 {font-size: large;font-weight: bold;
+}
 h1 {
     background-color: black;
     color: lightblue;
     padding: 5px;
 }
-.ueberschrift1 {font-size: x-large;font-weight: bold;
-}
 hr {
     clear: both;
     opacity: 0;
-}
-.ueberschrift2 {font-size: large;font-weight: bold;
-}
-.ueberschrift3 {font-size: large;font-weight: bold;
-}
-.ueberschrift4 {font-size: large;font-weight: bold;
-}
-.ueberschrift5 {font-size: large;font-weight: bold;
-}
-.ueberschrift6 {font-size: large;font-weight: bold;
 }
