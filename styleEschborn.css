@@ -16,3 +16,7 @@ hr {
 .buttonSize{
     font-style:unset ;font-size: x-large;
 }
+#hauptText {
+    width: 300px;
+    border: solid red 2px;
+  }
