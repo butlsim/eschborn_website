@@ -1,6 +1,6 @@
 body {
     background-color: lightblue;
-    font-style:unset ;font-size: large ;
+    font-style:unset ;font-size: large;
 }
 .ueberschrift0 {font-size: x-large;font-weight: bold;
 }
@@ -10,8 +10,4 @@ h1 {
     background-color: black;
     color: lightblue;
     padding: 5px;
-}
-hr {
-    clear: both;
-    opacity: 0;
 }
