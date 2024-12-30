@@ -9,6 +9,8 @@ h1 {
 }
 .ueberschrift {font-size: larger;font-weight: bold;
 }
+.fussnoteUeberschrift {font-size: small;font-weight: bold;
+}
 hr {
     clear: both;
     opacity: 0;
@@ -16,7 +18,6 @@ hr {
 .buttonSize{
     font-style:unset ;font-size: x-large;
 }
-#hauptText {
-    width: 300px;
-    border: solid red 2px;
+#quellenDiv {
+    font-size: small;
   }
